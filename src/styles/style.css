@@ -8,6 +8,12 @@ p {
     text-align: justify;
 }
 
+strong:hover {
+    text-decoration: underline;
+    font-size: 40px;
+    color: red;
+}
+
 .section {
     display: flex;
     align-items: center;
